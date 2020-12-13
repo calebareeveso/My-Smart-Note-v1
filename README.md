@@ -2,7 +2,6 @@
 My smart note is a web base note where you can trust with your information () 
  
 **v2 coming out in react.js 📍**
-# PASSWORD GENERATOR
 
 ## INSTALL
  * Click on the [download zip](https://github.com/caleb-007/PASSWORD-GENERATOR-2.0.0/archive/master.zip) button to get the zip file.

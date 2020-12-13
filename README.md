@@ -38,6 +38,6 @@ My smart note is a web base note where you can trust with your information ()
 ## CONTRIBUTING 
  Pull request are welcomed,and please open an issue to discuss what you would like to change.
 ## LIVE DEMO
-  LINK:```https://caleb-007.github.io/PASSWORD-GENERATOR-2.0.0/```
+  LINK:```https://caleb-007.github.io/My-Smart-Note-v1```
 **Or**
-[PASSWORD-GENERATOR](https://caleb-007.github.io/PASSWORD-GENERATOR-2.0.0/)
+[My-Smart-Note-v1](https://caleb-007.github.io/My-Smart-Note-v1)
